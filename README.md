@@ -14,18 +14,14 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+
  
 
   <img align="right" alt="GIF" src="https://www.gano.name/bekah/veritas/images/computer_penguin_programming.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a self taught web developer going through <a href="https://www.theodinproject.com">The Odin Project </a>curriculum
-- 🌱 I’m also studying System Analysis and Development at university. 
-- 🤔 My interest lies in front end web development and UX.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [yandeassis@pm.me](mailto:yandeassis@pm.me).
+
 
 
 
